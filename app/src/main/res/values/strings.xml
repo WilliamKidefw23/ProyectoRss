@@ -1,0 +1,9 @@
+<resources>
+    <!--Titulo-->
+    <string name="app_name">Depor</string>
+    <string name="title_activity_detail">Detalle </string>
+
+    <!--Mensaje Error-->
+    <string name="main_Error1">Error Volley:</string>
+    <string name="main_Error2">La conexión a internet no está disponible</string>
+</resources>
